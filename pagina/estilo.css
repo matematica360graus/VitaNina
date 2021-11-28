@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
+
+.cabecalho{
+    color: white;
+    text-align: center;
+    background-color: #21022d;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.corpo-pagina{
+    margin:  24px 24px;
+    background-color: #e2d8e7;
+    color: #21022d;
+    padding: 16px;
+
+}
+
+.cada-vitamina{
+    padding-top: 32px;
+    padding-left: 64px;
+        
+}
+
+#titulo-lactose{
+    text-align: center;
+    padding-top: 64px;
+}
+
+#img-lactose{
+    padding-top: 32px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.rodape{
+    color: white;
+    text-align: center;
+    background-color: #21022d;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
